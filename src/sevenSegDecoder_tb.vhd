@@ -11,7 +11,7 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : sevenSegDecoder_tb.vhd (TEST BENCH)
---| AUTHOR(S)     : Lt Col Trimble
+--| AUTHOR(S)     : leah Cook
 --| CREATED       : 01/01/2017
 --| DESCRIPTION   : This file simply provides a template for all VHDL assignments
 --|
